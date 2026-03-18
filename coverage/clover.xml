@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1773834386197" clover="3.2.0">
-  <project timestamp="1773834386197" name="All files">
+<coverage generated="1773834732597" clover="3.2.0">
+  <project timestamp="1773834732597" name="All files">
     <metrics statements="21" coveredstatements="17" conditionals="4" coveredconditionals="1" methods="8" coveredmethods="7" elements="33" coveredelements="25" complexity="0" loc="21" ncloc="21" packages="1" files="3" classes="3"/>
     <file name="api.js" path="E:\Projects\Jest\jestest1\src\api.js">
       <metrics statements="5" coveredstatements="1" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
