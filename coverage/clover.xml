@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1773463739785" clover="3.2.0">
-  <project timestamp="1773463739785" name="All files">
-    <metrics statements="10" coveredstatements="10" conditionals="2" coveredconditionals="1" methods="4" coveredmethods="4" elements="16" coveredelements="15" complexity="0" loc="10" ncloc="10" packages="1" files="1" classes="1"/>
+<coverage generated="1773834360165" clover="3.2.0">
+  <project timestamp="1773834360166" name="All files">
+    <metrics statements="21" coveredstatements="17" conditionals="4" coveredconditionals="1" methods="8" coveredmethods="7" elements="33" coveredelements="25" complexity="0" loc="21" ncloc="21" packages="1" files="3" classes="3"/>
+    <file name="api.js" path="E:\Projects\Jest\jestest1\src\api.js">
+      <metrics statements="5" coveredstatements="1" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="0" type="stmt"/>
+      <line num="3" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="4" count="0" type="stmt"/>
+      <line num="6" count="0" type="stmt"/>
+    </file>
+    <file name="counter.js" path="E:\Projects\Jest\jestest1\src\counter.js">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="4" count="4" type="stmt"/>
+      <line num="5" count="4" type="stmt"/>
+      <line num="7" count="2" type="stmt"/>
+      <line num="8" count="2" type="stmt"/>
+    </file>
     <file name="stack.js" path="E:\Projects\Jest\jestest1\src\stack.js">
       <metrics statements="10" coveredstatements="10" conditionals="2" coveredconditionals="1" methods="4" coveredmethods="4"/>
       <line num="3" count="3" type="stmt"/>
